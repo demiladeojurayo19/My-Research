@@ -23,7 +23,7 @@ Matplotlib and Seaborn (for data visualization)
 Power BI (for dashboard creation and visualization)
 
   **Datasets**
-The primary dataset used in this analysis is sourced from a fictional telecommunications company based in California. It includes 7,043 records and 50 attributes covering customer demographics, service usage patterns, billing information, and churn indicators. The dataset is available for download via this link - at https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3/data.
+The primary dataset used in this analysis is sourced from a fictional telecommunications company based in California. It includes 7,043 records and 50 attributes covering customer demographics, service usage patterns, billing information, and churn indicators. The dataset is available for download via this link - https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3/data.
 
 **Dashboards**
 **Dashboard 1: Descriptive Analysis**
